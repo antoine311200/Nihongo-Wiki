@@ -12,14 +12,14 @@ En japonais, il y a six formes étant à la base de nombreuses conjugaisons et d
 
 Voice une description une à une de ses formes et leurs usages
 
-## 未然形
+# 未然形
 
-## 連用形
+# 連用形
 
-## 終止形
+# 終止形
 
-## 連体形
+# 連体形
 
-## 仮定形・已然形
+# 仮定形・已然形
 
-## 命令形
+# 命令形
