@@ -17,7 +17,7 @@ Aedict  Android
 ## Grammaire:
 ### Site internet:
 http://www.imabi.net/   🇬🇧
-https://www.renshuu.org/login   🇬🇧
+https://www.renshuu.org/   🇬🇧
 
 
 ## Dictionnaire:
