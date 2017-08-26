@@ -3,3 +3,12 @@
  -->
 
 # Outils
+
+## Dictionnaire:
+
+### Site internet:
+http://jisho.org/   🇬🇧
+https://aedict-online.eu/   🇬🇧 / 🇫🇷
+### Application:
+Takoboto Windows / android
+Aedict  Android
