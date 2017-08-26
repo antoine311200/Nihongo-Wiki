@@ -1,4 +1,5 @@
 <!-- TITLE: Outils -->
-<!-- SUBTITLE: A quick summary of Outils -->
+<!-- SUBTITLE: Une liste non exhaustive des différents outils utiles pour l'apprentissage du japonais. 
+ -->
 
 # Outils
