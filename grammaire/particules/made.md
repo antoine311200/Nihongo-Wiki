@@ -12,7 +12,7 @@ On retrouve 4 usages principaux :
 > Vous pourrez touver まで avec le kanji 迄
 {.is-info}
 
-#### Example
+### Example
 	二時から五時まで歩いた。
 	J'ai marché de 2 heure jusqu'à 5 heure.
 	
