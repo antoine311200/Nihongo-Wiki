@@ -19,6 +19,9 @@ On retrouve 4 usages principaux :
 	店まで走った。
 	J'ai couru jusqu'au magasin.
 	
+	試合が始まるまで待っていた。
+	Nous avons attendu jusqu'à ce que le match commence.
+	
 # Combinaison 
 ## 連用形＋て＋まで
 Cette construction permet d'exprimer le fait de continuer une action jusqu'à une certaine limite, "jusqu'au point de 〜"  
@@ -28,3 +31,13 @@ Cette construction permet d'exprimer le fait de continuer une action jusqu'à un
 	
 	売春してまでお金を稼ぎたくない。
 	Je ne veux pas gagner de l'argent jusqu'au point de me prostituer.
+	
+## 動詞＋まで（のこと）だ
+Montre que rien ne peut s'étendre à l'action en cours quoiqu'il arrive, "faire seulement 〜  et rien d'autre"
+
+	雨が降ろうが振るまいが、来るまでだ。
+	Qu'il pleuve ou non, je viendrai (et ne ferai rien d'autre)
+	
+	親父が買い物をして欲しいというからしたまでです。
+	Je suis allé faire seulement les courses comme mon père me l'a demandé.
+	
