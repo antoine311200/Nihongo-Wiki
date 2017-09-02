@@ -26,7 +26,6 @@
 - [La particule と](grammaire/particules/to#kakujoshi)
 - [La particule で](grammaire/particules/de)
 - [La particule から](grammaire/particules/kara)
-- [La particule まで](grammaire/particules/made)
 - [La particule より](grammaire/particules/yori)
 
 #### Marqueurs de liens (並立助詞)
@@ -38,6 +37,9 @@
 - [La particule やら](grammaire/particules/yara)
 - [La particule なり](grammaire/particules/nari)
 - [La particule だの](grammaire/particules/dano)
+
+#### Particules adverbiales (副助詞)
+- [La particule まで](grammaire/particules/made)
 
 # Japonais Ancien
 
