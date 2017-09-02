@@ -9,7 +9,7 @@ On retrouve 4 usages principaux :
 
 
 
-> Vous pourrez touver まで avec le kanji 迄
+> Vous pourrez touver まで avec le kanji 迄.
 {.is-info}
 
 ### Example
@@ -33,7 +33,7 @@ Cette construction permet d'exprimer le fait de continuer une action jusqu'à un
 	Je ne veux pas gagner de l'argent jusqu'au point de me prostituer.
 	
 ## 動詞＋まで（のこと）だ
-Montre que rien ne peut s'étendre à l'action en cours quoiqu'il arrive, "faire seulement 〜  et rien d'autre"
+Montre que rien ne peut s'étendre à l'action en cours quoiqu'il arrive, "faire seulement 〜  et rien d'autre". のこと sert seulement de mot de remplissage.
 
 	雨が降ろうが振るまいが、来るまでだ。
 	Qu'il pleuve ou non, je viendrai (et ne ferai rien d'autre)
@@ -41,3 +41,11 @@ Montre que rien ne peut s'étendre à l'action en cours quoiqu'il arrive, "faire
 	親父が買い物をして欲しいというからしたまでです。
 	Je suis allé faire seulement les courses comme mon père me l'a demandé.
 	
+## 動詞＋まで（のこと）もない　・　ない＋までも
+Permet d'exprimer qu "il n'y a pas besoin de 〜 ça". La deuxième construction s'emploit souvent dans le sens de "pour ne pas dire 〜"
+
+	それは言うまでもないことだ。
+	Cela va sans dire. (litt. Il n'y a pas besoin de dire cela)
+	
+	その人は太っているとは言えないまでも大柄な人だ。
+	Cette personne est forte pour ne pas dire qu'elle est grosse.
