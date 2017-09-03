@@ -41,6 +41,9 @@
 #### Particules adverbiales (副助詞)
 - [La particule まで](grammaire/particules/made)
 
+### Autres
+ - [Termes grammaticaux japonais](grammaire/termes-grammaticaux)
+
 # Japonais Ancien
 
 # Histoire du Japon
