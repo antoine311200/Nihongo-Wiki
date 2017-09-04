@@ -31,7 +31,7 @@
 
 ### Classement scolaire japonais des termes grammaticaux
 * 自立語（じりつご）：mot indépendant
-	* 活用語（かつようご）：classes de mot qui se conjugue
+	* 活用語（かつようご）：classes de mot qui se conjuguent
 		* 動詞（どうし）：verbe
 		* 形容詞（けいようし）：adjectif en い
 		* 形容動詞（けいようどうし）：adjectif en な (on peut les retrouver comme étant non conjugable par certains)
@@ -43,5 +43,22 @@
 		* 接続詞（せつぞくし）：conjonction
 		* 感動詞（かんどうし）・間投詞（かんとうし）： interjection
 		* 連体詞（れんたいし）：adjectif prénominal / admonial
+***
+* 付属後（ふぞくご）：mot auxiliaire
+	* 活用語（かつようご）：classes de mot qui se conjuguent
+		* 助動詞（じょどうし）：verbe auxiliaire (comme ます, ない...)
+		* 補助動詞（ほじょどうし）：verbe subsidiaire (comme いる)
+		* 補助形容詞（ほじょけいようし）：adjectif subsidiaire (comme ほしい）
+	* 非活用語（ひかつようご）・無活用語（むかつようご）：classes de mot qui ne se conjuguent pas
+		* 助数詞（じょすうし）：compteur
+		* 助詞（じょし）：particule
+			* 格助詞（かくじょし）：particule de cas
+			* 並立助詞（へいりつじょし）：particule parallèle
+			* 副助詞（ふくじょし）：
+			* 間投助詞（かんとうじょし）：
+			* 係助詞（かかりじょし）：
+			* 終助詞（しゅうじょし）：
+			* 接続助詞（せつぞくじょし）：
+			* 準体助詞（じゅんたいじょし）：
 	
 	
