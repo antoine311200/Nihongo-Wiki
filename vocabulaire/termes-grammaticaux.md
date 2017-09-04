@@ -13,7 +13,7 @@
 * 単文（たんぶん）：phrase simple (phrase avec une seule proposition)
 * 重文（じゅうぶん）：phrase composée (phrase avec plus d'une proposition mais qui s'égalent)
 * 複文（ふくぶん）：phrase complexe  
-
+  
 * 平叙文（へいじょぶん）：phrase déclarative
 * 疑問文（ぎもんぶん）：phrase interrogative
 * 感動文（かんどうぶん）：phrase exclamative
