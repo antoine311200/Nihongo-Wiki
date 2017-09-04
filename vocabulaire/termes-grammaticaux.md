@@ -31,17 +31,17 @@
 
 ### Classement scolaire japonais des termes grammaticaux
 * 自立語（じりつご）：mot indépendant
-		* 活用語（かつようご）：classes de mot qui se conjugue
-				* 動詞（どうし）：verbe
-				* 形容詞（けいようし）：adjectif en い
-				* 形容動詞（けいようどうし）：adjectif en な (on peut les retrouver comme étant non conjugable par certains)
-		* 非活用語（ひかつようご）・無活用語（むかつようご）：classes de mot qui ne se conjuguent pas
-				* 名詞（めいし）：nom
-						* 代名詞（だいめいし）：pronom
-						* 数詞（すうし）：nombre
-				* 副詞（ふくし）：adverbe
-				* 接続詞（せつぞくし）：conjonction
-				* 感動詞（かんどうし）・間投詞（かんとうし）： interjection
-				* 連体詞（れんたいし）：adjectif prénominal / admonial
+	* 活用語（かつようご）：classes de mot qui se conjugue
+		* 動詞（どうし）：verbe
+		* 形容詞（けいようし）：adjectif en い
+		* 形容動詞（けいようどうし）：adjectif en な (on peut les retrouver comme étant non conjugable par certains)
+	* 非活用語（ひかつようご）・無活用語（むかつようご）：classes de mot qui ne se conjuguent pas
+		* 名詞（めいし）：nom
+			* 代名詞（だいめいし）：pronom
+			* 数詞（すうし）：nombre
+		* 副詞（ふくし）：adverbe
+		* 接続詞（せつぞくし）：conjonction
+		* 感動詞（かんどうし）・間投詞（かんとうし）： interjection
+		* 連体詞（れんたいし）：adjectif prénominal / admonial
 	
 	
