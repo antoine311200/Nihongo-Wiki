@@ -84,5 +84,12 @@
 * **［I］** 連用形（れんようけい）：forme conjonctive
 	* 中止形（ちゅうしけい）：forme conjonctive quand utilisé pour une conjonction
 * **［A］** 未然形（みぜんけい）：forme imperfective
-* **［E］** 仮定形（かていけい）：forme hypothétique
+* **［E］** 仮定形（かていけい）・已然形（いぜんけい）：forme hypothétique
 * **［E］** 命令形（めいれいけい）：forme impérative
+
+### Formes de politesse
+* 丁寧語（ていねいご）：langage polie (forme en ます)
+* 謙譲語（けんじょうご）：langage humble (forme en お＋連用形＋する）
+* 尊敬語（そんけいご）：langage honorifique (forme en お＋連用形＋なる)
+* 丁重語（ていちょうご）：langage courtois
+* 美化語（びかご）・雅語（がご）：langage embelli
