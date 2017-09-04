@@ -52,13 +52,13 @@
 	* 非活用語（ひかつようご）・無活用語（むかつようご）：classes de mot qui ne se conjuguent pas
 		* 助数詞（じょすうし）：compteur
 		* 助詞（じょし）：particule
-			* 格助詞（かくじょし）：particule de cas
-			* 並立助詞（へいりつじょし）：particule parallèle
-			* 副助詞（ふくじょし）：
-			* 間投助詞（かんとうじょし）：
-			* 係助詞（かかりじょし）：
-			* 終助詞（しゅうじょし）：
-			* 接続助詞（せつぞくじょし）：
-			* 準体助詞（じゅんたいじょし）：
+			* 格助詞（かくじょし）：particule de cas (が, の, を, に...)
+			* 並立助詞（へいりつじょし）：particule parallèle (や, と, やら...)
+			* 副助詞（ふくじょし）：particule adverbiale (ばかり, まで, だけ...)
+			* 間投助詞（かんとうじょし）：particule interjective (さ, よ, ね)
+			* 係助詞（かかりじょし）：particule de liaison (は, も, こそ...)
+			* 終助詞（しゅうじょし）：particule de fin de phrase (か, の, な, わ...)
+			* 接続助詞（せつぞくじょし）：particule conjonctive (のに, ので, ところが...)
+			* 準体助詞（じゅんたいじょし）：particule phrastique (の, から)
 	
 	
