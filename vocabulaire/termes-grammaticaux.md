@@ -78,7 +78,11 @@
 *  四段（よだん）：(ancien nom des 五段 car il n'y avait que 4 sons et non 5)
 *  二段（にだん）：(ancien type de verbe qui font désormais partis des 一段)
 ***
-* **\<U\>** 辞書形（じしょけい）・基本形（きほんけい）：forme du dictionnaire
+* **［U・O］** 辞書形（じしょけい）・基本形（きほんけい）：forme du dictionnaire
 	* 終止形（しゅうしけい）：forme prédicative ou terminal (forme "infinitive" en fin de phrase)
 	* 連体形（れんたいけい）：forme attributive (forme "infinitive" avant un mot servant de modificateur (とき...) )
-* 連用形（れんようけい）：forme conjonctive
+* **［I］** 連用形（れんようけい）：forme conjonctive
+	* 中止形（ちゅうしけい）：forme conjonctive quand utilisé pour une conjonction
+* **［A］** 未然形（みぜんけい）：forme imperfective
+* **［E］** 仮定形（かていけい）：forme hypothétique
+* **［E］** 命令形（めいれいけい）：forme impérative
