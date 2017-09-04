@@ -93,3 +93,12 @@
 * 尊敬語（そんけいご）：langage honorifique (forme en お＋連用形＋なる)
 * 丁重語（ていちょうご）：langage courtois
 * 美化語（びかご）・雅語（がご）：langage embelli
+
+### Origines des mots en japonais
+* 大和言葉（やまとことば）・和語（わご）：mot d'origine japonaise historique
+* 漢語（かんご）：mot importé de Chine
+* 外来語（がいらいご）：mot importé
+	* 和製英語（わせいえいご）：mot repris de l'anglais
+* 混種語（こんしゅご）：mot mélangeant des ressources de différentes langues
+	* 湯桶読み（ゆとうよみ）：  mot mélangeant lectures KUN-on
+	* 重箱読み（じゅうばこよみ）：mot mélangeant lectures on-KUN
