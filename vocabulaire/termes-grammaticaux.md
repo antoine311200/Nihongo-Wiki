@@ -28,6 +28,7 @@
 * 客語（きゃくご）・目的語（もくてきご）：complément d'object
 	* 直接目的語（ちょくせつもくてきご）：complément d'objet direct
 	* 間接目的語（かんせつもくてきご）：complément d'objet indirect
+* 語幹（ごかん）：racine d'un mot, radical
 
 ### Classement scolaire japonais des termes grammaticaux
 * 自立語（じりつご）：mot indépendant
@@ -61,4 +62,23 @@
 			* 接続助詞（せつぞくじょし）：particule conjonctive (のに, ので, ところが...)
 			* 準体助詞（じゅんたいじょし）：particule phrastique (の, から)
 	
-	
+	### Verbes
+	* 他動詞（たどうし）：verbe transitif
+	* 自動詞（じどうし）：verbe intransitif
+	***
+	* 一段（いちだん）：verbe en -eru/iru
+		* 下一段（しもいちだん）：verbe en -eru
+		* 上一段（かみいちだん）：verbe en -iru
+	* 五段（ごだん）：verbe en -u (donnant un totoal de 5 sons différents en les conjugant) 
+	*  変格（へんかく）：verbe irrégulier
+		* カ行変格（カぎょうへんかく）：verbe irégulier くる
+		* サ行変格（サぎょうへんかく）：verbe irégulier する
+		* ナ行変格（ナぎょうへんかく）：verbes iréguliers se terminant par ぬ 
+		* ラ行変格（ラぎょうへんかく）：nom de certains verbes iréguliers se terminant par る
+	*  四段（よだん）：(ancien nom des 五段 car il n'y avait que 4 sons et non 5)
+	*  二段（にだん）：(ancien type de verbe qui font désormais partis des 一段)
+	***
+	* **\<U\>** 辞書形（じしょけい）・基本形（きほんけい）：forme du dictionnaire
+		* 終止形（しゅうしけい）：forme prédicative ou terminal (forme "infinitive" en fin de phrase)
+		* 連体形（れんたいけい）：forme attributive (forme "infinitive" avant un mot servant de modificateur (とき...) )
+	* 連用形（れんようけい）：forme conjonctive
