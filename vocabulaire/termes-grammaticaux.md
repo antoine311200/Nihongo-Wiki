@@ -2,14 +2,14 @@
 <!-- SUBTITLE: A quick summary of Termes Grammaticaux -->
 
 
-### Mots communs
+## Mots communs
 * 文書（ぶんしょ）: des écrits, un collection de textes
 * 文（ぶん）：phrase (contenant un verbe conjugué)
 * 文節（ぶんせつ）：phrase
 * 単語（たんご）：mot simple
 * 熟語（じゅくご）：mot composé
 
-### Types de phrases
+## Types de phrases
 * 単文（たんぶん）：phrase simple (phrase avec une seule proposition)
 * 重文（じゅうぶん）：phrase composée (phrase avec plus d'une proposition mais qui s'égalent)
 * 複文（ふくぶん）：phrase complexe  
@@ -19,7 +19,7 @@
 * 感動文（かんどうぶん）：phrase exclamative
 * 命令文（めいれいぶん）：phrase impérative
 
-### Termes linguistiques
+## Termes linguistiques
 * 主語（しゅご）：sujet
 * 述語（しゅつご）：prédicat
 * 修飾語（しゅうしょくご）：modificateur
@@ -30,7 +30,7 @@
 	* 間接目的語（かんせつもくてきご）：complément d'objet indirect
 * 語幹（ごかん）：racine d'un mot, radical
 
-### Classement scolaire japonais des termes grammaticaux
+## Classement scolaire japonais des termes grammaticaux
 * 自立語（じりつご）：mot indépendant
 	* 活用語（かつようご）：classes de mot qui se conjuguent
 		* 動詞（どうし）：verbe
@@ -62,7 +62,7 @@
 			* 接続助詞（せつぞくじょし）：particule conjonctive (のに, ので, ところが...)
 			* 準体助詞（じゅんたいじょし）：particule phrastique (の, から)
 	
-### Verbes
+## Verbes
 * 他動詞（たどうし）：verbe transitif
 * 自動詞（じどうし）：verbe intransitif
 ***
@@ -94,7 +94,7 @@
 * 丁重語（ていちょうご）：langage courtois
 * 美化語（びかご）・雅語（がご）：langage embelli
 
-### Origines des mots en japonais
+## Origines des mots en japonais
 * 大和言葉（やまとことば）・和語（わご）：mot d'origine japonaise historique
 * 漢語（かんご）：mot importé de Chine
 * 外来語（がいらいご）：mot importé
