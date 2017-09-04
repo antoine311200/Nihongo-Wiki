@@ -1,7 +1,7 @@
 <!-- TITLE: Termes Grammaticaux -->
 <!-- SUBTITLE: A quick summary of Termes Grammaticaux -->
 
-# 
+
 ### Mots communs
 * 文書（ぶんしょ）: des écrits, un collection de textes
 * 文（ぶん）：phrase (contenant un verbe conjugué)
