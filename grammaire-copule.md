@@ -14,8 +14,8 @@ En français, le verbe `être` possède 2 sens principaux : le verbe être d'**�
 
 > **Explication avancée**
 > ####### Se référer au [cours sur les 6 formes de conjugaison]()
-> | 基本形       |     未然形     |   連用形     | 終止形 | 連体形 | 仮定形 | 命令形
-> | ------------- | -------------   | ---------      |
+> | 基本形         |     未然形       |   連用形       | 終止形        | 連体形        | 仮定形        | 命令形        |
+> | ------------- | -------------   | ---------      | ---------      | ---------      | ---------      | ---------      |
 > | Colonne       |     Colonne     |      Colonne   |
 > | Alignée à     |      Alignée au |     Alignée à  |
 > | Gauche        |      Centre     |      Droite    |
