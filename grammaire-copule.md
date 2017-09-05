@@ -5,12 +5,14 @@
 En français, le verbe `être` possède 2 sens principaux : le verbe être d'**état** et celui de **présence**. En japonais, c'est deux notions sont séparés laissant le verbe être de présence aux verbes ある・いる (la différence se fera en fonction d'object inanimé/animé) et utilise ce qu'on appelle couramment en linguistique la **copule** répsentant le verbe être d'état (ex : il est un poisson)
 
 ### Conjugaison de la copule だ
-|        | Neutre                                          |     Polie                                        |   Traduction      |
+|        | Neutre                                          |     Poli                                        |   Traduction      |
 | -------------       | -------------                                  | -------------                                 | -------------      |
 | Présent positif   |  だ                                                 |     です                                        |      être   |
-| Présent négatif  |  ではない・じゃない                    |      ではありません                    |     ne pas être  |
+| Présent négatif  |  ではない・じゃない                    |      ではありません ・じゃありません                   |     ne pas être  |
 | Passé positif      |   だった                                         |      でした                                   |      était    |
-| Passé négatif     |  ではなかった・じゃなかった     |      ではありませんでした          |   n'était pas  |
+| Passé négatif     |  ではなかった・じゃなかった     |      ではありませんでした・じゃありませんでした          |   n'était pas  |
+
+En japonais, il arrive souvent de faire des abbréviations comme en français pour "t'es" = "tu es". De la même manière では donne じゃ à l'oral et dans des situations un peu plus informelles, c'est pour cette raison que ではない est très souvent vu comme じゃない ainsi que じゃありません pour ではありません...
 
 ### Exemples
 	魚だ。
