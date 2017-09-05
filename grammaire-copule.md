@@ -11,6 +11,22 @@ En français, le verbe `être` possède 2 sens principaux : le verbe être d'**�
 | Alignée à     |      Alignée au |     Alignée à  |
 | Gauche        |      Centre     |      Droite    |
 
+### Exemples
+	魚だ。
+	C'est un poisson.
+
+	犬だった。
+	C'était un chien.
+
+	猫です。(poli)
+	C'est un chat.
+
+	馬ではありません。(poli)
+	Ce n'est pas un cheval.
+
+	鳥でしたありません。(poli)
+	Ce n'était pas un oiseau.
+
 
 ### Explication avancée
 > ###### Se référer au [cours sur les 6 formes de conjugaison]()  
