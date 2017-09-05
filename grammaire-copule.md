@@ -2,7 +2,8 @@
 <!-- SUBTITLE: A quick summary of Grammaire Copule -->
 
 # Description
-En français, le verbe `être` possède 2 sens principaux : le verbe être d'**état** et celui de **présence**. En japonais, c'est deux notions sont séparés laissant le verbe être de présence aux verbes ある・いる (la différence se fera en fonction d'object inanimé/animé) et utilise ce qu'on appelle couramment en linguistique la **copule** répsentant le verbe être d'état (ex : il est un poisson)
+En français, le verbe `être` possède 2 sens principaux : le verbe être d'**état** et celui de **présence**. En japonais, c'est deux notions sont séparés laissant le verbe être de présence aux verbes ある・いる (la différence se fera en fonction d'object inanimé/animé) et utilise ce qu'on appelle couramment en linguistique la **copule** répsentant le verbe être d'état (ex : il est un poisson).
+On retrouve 2 mots principaux pour décrire cette état d'être, la différence se fait dans la politesse. Le japonais possède plusieurs niveau de langue (un peu comme le vouvoiement mais qui s'affecte sur la conjugaison des verbes directement) ainsi だ en est la forme familière et です la forme polie.
 
 ### Conjugaison de la copule だ
 |        | Neutre                                          |     Poli                                        |   Traduction      |
