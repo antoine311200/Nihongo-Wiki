@@ -18,6 +18,5 @@ En français, le verbe `être` possède 2 sens principaux : le verbe être d'**�
 > | 基本形         |     未然形       |   連用形       | 終止形        | 連体形        | 仮定形        | 命令形        |
 > | ------------- | -------------   | ---------      | ---------      | ---------      | ---------      | ---------      |
 > |         だ        |           だろ     |      だっ・で・に   |　だ　|　（な）　|　   なら　　|　　○　　|
-> | Alignée à     |      Alignée au |     Alignée à  |
-> | Gauche        |      Centre     |      Droite    |
+> |         です     |       でしょ     |      でし   |　です　|　（です）　|　   （ですれ）　|　　○　　|
 {.is-warning}
