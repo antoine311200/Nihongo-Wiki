@@ -4,11 +4,11 @@
 # Grammaire japonaise
 ### Débutant
 - [Les différents systèmes d'écriture japonais : hiragana, katakana, kanji (ひらがな・カタカナ・漢字)](grammaire-systeme-ecriture)
-- [La copule だ・です](grammaire-copule)
-- [Les adjectifs en -na (形容動詞)](grammaire-adjectif-na)
-- [Les adjectifs en -i (形容詞)](grammaire-adjectif-i)
-- [Les verbes (動詞)](grammaire-verbe)
-- [Les adverbes (副詞)](grammaire-adverbe)
+- [La copule だ・です](grammaire/copule-da)
+- [Les adjectifs en -na (形容動詞)](grammaire/adjectif-na)
+- [Les adjectifs en -i (形容詞)](grammaire/adjectif-i)
+- [Les verbes (動詞)](grammaire/verbe)
+- [Les adverbes (副詞)](grammaire/adverbe)
 - [Les six formes japonaises](grammaire-six-formes)
 
 ### Intermédiaire
