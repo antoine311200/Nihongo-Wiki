@@ -15,20 +15,20 @@ En français, le verbe `être` possède 2 sens principaux : le verbe être d'**�
 En japonais, il arrive souvent de faire des abbréviations comme en français pour "t'es" = "tu es". De la même manière では donne じゃ à l'oral et dans des situations un peu plus informelles, c'est pour cette raison que ではない est très souvent vu comme じゃない ainsi que じゃありません pour ではありません...
 
 ### Exemples
-	魚だ。
-	C'est un poisson.
+魚だ。
+C'est un poisson.
 
-	犬だった。
-	C'était un chien.
+犬だった。
+C'était un chien.
 
-	猫です。(poli)
-	C'est un chat.
+猫です。(poli)
+C'est un chat.
 
-	馬ではありません。(poli)
-	Ce n'est pas un cheval.
+馬ではありません。(poli)
+Ce n'est pas un cheval.
 
-	鳥ではありませんでした。(poli)
-	Ce n'était pas un oiseau.
+鳥ではありませんでした。(poli)
+Ce n'était pas un oiseau.
 
 
 ### Explication avancée
