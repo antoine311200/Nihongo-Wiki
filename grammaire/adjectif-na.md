@@ -30,7 +30,7 @@ Ainsi pour conjuguer un adjectif (ex : pas calme, était pas gentil, n'était pa
 | Passé positif      |  形容動詞＋**だった**＋名詞 |
 | Passé négatif     |  形容動詞＋**じゃなかった**＋名詞  |
 \> 名詞（めいし）：nom commun
-\> じゃない et じゃなかった peuvent se présenter sous leur forme non abbrégée : ではない・ではなかった. Mais on ne peut pas utiliser les formes polies dans ce cas-ci.
+\> じゃない et じゃなかった peuvent se présenter sous leur forme non abbrégée : ではない・ではなかった. Mais on ne peut pas utiliser les formes polies dans le cas d'un adjectif en position d'épithète (accolé à un nom).
 
 ### Faire suivre plusieurs adjectifs en な
 Pour créer une phrase avec plusieurs 形容動詞, il faut utiliser une des formes de だ : un de ses 連用形 (voir le cours avancé) qui est で.
@@ -48,3 +48,9 @@ Certaines tournures existent mais comme en français elles ne seront pas très n
 	真面目じゃない生徒だ。
 	C'est un élève qui n'est pas sérieux.
 	(plus naturel : 真面目な生徒じゃない → ce n'est pas un élève sérieux)
+	
+	真面目ではありません
+	Ce n'est pas sérieux.
+	
+	大変だった。
+	C'était terrible.
