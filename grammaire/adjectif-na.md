@@ -20,4 +20,15 @@ Ainsi pour conjuguer un adjectif (ex : pas calme, était pas gentil, n'était pa
 * 奇妙**じゃない**人 → une personne qui n'est pas étrange
 * 奇妙**だった**人 → une personne qui était étrange
 * 奇妙**じゃなかった**人 → une personne qui n'était pas étrange
+
+***
+
+|        | Conjugaison      |
+| -------------       | -------------                                  |
+| Présent positif   |  形容動詞＋**な**＋名詞   |
+| Présent négatif  |  形容動詞＋**じゃない**＋名詞  |
+| Passé positif      |  形容動詞＋**だった**＋名詞 |
+| Passé négatif     |  形容動詞＋**じゃなかった**＋名詞  |
+名詞（めいし）：nom commun
+\> じゃない et じゃなかった peuvent se présenter sous leur forme non abbrégée : ではない・ではなかった. Mais on ne peut pas utiliser les formes polies dans ce cas-ci.
 	
