@@ -7,5 +7,17 @@ Il existe en japonais 2 types d'adjectifs : les adjectifs en い et ceux en な.
 
 Ainsi pour conjuguer un adjectif (ex : pas calme, était pas gentil, n'était pas gros...), il suffit de conjuguer la copule だ et de coller l'adjectif ainsi conjugué au nom qui qualifié.
 
-	静か**な**場所
+
+
+静か（しずか）：calme
+* 静か**な**場所 → un lieu calme (qui est calme)
+* 静か**じゃない**場所 → un lieu qui n'est pas calme
+* 静か**だった**場所 → un lieu qui était calme
+* 静か**じゃなかった**場所 → un lieu qui n'était pas calme
+
+奇妙（きみょう）：étrange, curieux
+* 奇妙**な**人 → une personne étrange (qui est étrange)
+* 奇妙**じゃない**人 → une personne qui n'est pas étrange
+* 奇妙**だった**人 → une personne qui était étrange
+* 奇妙**じゃなかった**人 → une personne qui n'était pas étrange
 	
