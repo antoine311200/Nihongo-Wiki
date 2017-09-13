@@ -38,5 +38,13 @@ Ainsi une phrase du type "un lieu calme et étrange" se dira : 奇妙**で**静�
 Attention, ceci ne marche que pour du présent positif, nous verrons dans le cours suivant comment faire pour faire suivre plusieurs adjectifs en な négatif présent car leur comportement se rapproche de celui des adjectifs en い (notamment du fait que じゃない se finit en い et agit donc en tant qu'adjectif en い). Dans le cas du passé, c'est en général le dernier adjectif qui décide du temps de tous les autres.
 
 奇妙で静かじゃない場所 → un lieu qui n'est pas calme et est étrange
-温厚で偉大ではなかった王
+温厚で真面目ではなかった王 → un roi qui n'était pas sérieux et qui était calme
+
+Certaines tournures existent mais comme en français elles ne seront pas très naturelles telles que des phrases à rallonges avec cinq adjectifs conjugués tous différements pour qualifier un seul nom ou des doubles négations étranges.
+### Exemples
+	奇妙な魚だ。
+	C'est un poisson étrange.
 	
+	真面目じゃない生徒だ。
+	C'est un élève qui n'est pas sérieux.
+	(plus naturel : 真面目な生徒じゃない → ce n'est pas un élève sérieux)
