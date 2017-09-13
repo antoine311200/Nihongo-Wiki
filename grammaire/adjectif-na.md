@@ -29,6 +29,14 @@ Ainsi pour conjuguer un adjectif (ex : pas calme, était pas gentil, n'était pa
 | Présent négatif  |  形容動詞＋**じゃない**＋名詞  |
 | Passé positif      |  形容動詞＋**だった**＋名詞 |
 | Passé négatif     |  形容動詞＋**じゃなかった**＋名詞  |
-名詞（めいし）：nom commun
+\> 名詞（めいし）：nom commun
 \> じゃない et じゃなかった peuvent se présenter sous leur forme non abbrégée : ではない・ではなかった. Mais on ne peut pas utiliser les formes polies dans ce cas-ci.
+
+### Faire suivre plusieurs adjectifs en な
+Pour créer une phrase avec plusieurs 形容動詞, il faut utiliser une des formes de だ : un de ses 連用形 (voir le cours avancé) qui est で.
+Ainsi une phrase du type "un lieu calme et étrange" se dira : 奇妙**で**静か**な**場所. Le dernier adjectif ne change pas.
+Attention, ceci ne marche que pour du présent positif, nous verrons dans le cours suivant comment faire pour faire suivre plusieurs adjectifs en な négatif présent car leur comportement se rapproche de celui des adjectifs en い (notamment du fait que じゃない se finit en い et agit donc en tant qu'adjectif en い). Dans le cas du passé, c'est en général le dernier adjectif qui décide du temps de tous les autres.
+
+奇妙で静かじゃない場所 → un lieu qui n'est pas calme et est étrange
+温厚で偉大ではなかった王
 	
